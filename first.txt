@@ -1,0 +1,19 @@
+We're going to type a few instructions here
+12:33
+and the first one that I want to do is
+12:35
+git init and I'm going to call this project1.
+12:38
+When I've typed git init project1, I have done something pretty impressive
+12:43
+which is to instantaneously create a local repository
+12:47
+but with no server
+12:49
+or any daemon running in the background,
+12:52
+there's nothing in the background.
+12:54
+It simply used the file system to create a top level directory called project1
+13:00
+and then a nested folder beneath it called .git.
